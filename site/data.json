@@ -1,0 +1,9 @@
+{
+    "meta": {
+        "title": "Plants plants plants"
+    },
+    "title": "This is my page",
+    "description": "This is my first built page!!",
+    "introduction": "This is my first attempt at a static site generator. It's a cool project!! I don't really know what else to do here. I have an idea. I should really add functions to my parsing!"
+
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+h1 {
+    animation: shake 0.5s infinite;
+}
+
+@keyframes shake {
+    from {
+        transform: translateY(10px);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    to {
+        transform: translateY(10px);
+    }
+}
